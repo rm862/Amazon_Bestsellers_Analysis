@@ -1,10 +1,14 @@
-# Amazon Books Data Analysis
+# Amazon Bestseller Data Analysis
 
 A comprehensive data analysis project exploring Amazon bestsellers dataset to uncover insights about book ratings, reviews, author productivity, and genre trends.
 
 ## Overview
 
 This project analyzes a dataset of 550 Amazon bestselling books, examining patterns in ratings, reviews, pricing, and publication trends across Fiction and Non-Fiction genres.
+
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Dependencies](https://img.shields.io/badge/dependencies-pandas%20%7C%20matplotlib%20%7C%20numpy%20%7C%20jupyter-orange)
 
 ## Key Findings
 
